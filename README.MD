@@ -17,5 +17,5 @@ Random stuff related to biotech exlorations Thing I have been meaning to poke at
 # stuff 
 
 N | Directory | Desctiption
-|---|:--:|---|
-1 | [PDB](/PDB/) | Jupyter notebooks experimentation with viz
+|---|:--:|:---:|
+1 | [PDB](/PDB/) | Various proteing viz, experiments for manipulatin with code
