@@ -18,4 +18,4 @@ Random stuff related to biotech exlorations Thing I have been meaning to poke at
 
 N | Directory | Desctiption
 |---|:--:|---|
-1 | PDB | Jupyter notebooks experimentation with viz
+1 | [PDB](/PDB/) | Jupyter notebooks experimentation with viz
