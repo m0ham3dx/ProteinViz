@@ -14,4 +14,8 @@
 
 Random stuff related to biotech exlorations Thing I have been meaning to poke at.  
 
+# stuff 
 
+N | Directory | Desctiption
+|---|:--:|---|
+1 | PDB | Jupyter notebooks experimentation with viz
