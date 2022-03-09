@@ -1,6 +1,6 @@
 # What ?
 
-This directory will have jupyter notebooks.
+This directory will have jupyter notebooks. The PY subdirectory has only the python code for rendering
 
 # Files
 
