@@ -6,4 +6,4 @@ This directory will have jupyter notebooks.
 
 n | File | Description | Notes 
 |---|:--:|---|---|
-1 | SarsCov2Proteins3d.ipynb | Sars Covid Protein Structures Viz | NGLView Render Problems
+1 | [SarsCov2Proteins3d.ipynb](SarsCov2Proteins3d.ipynb) | Sars Covid Protein Structures Viz | NGLView Render Problems
