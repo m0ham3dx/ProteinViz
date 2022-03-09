@@ -6,5 +6,4 @@ This directory will have jupyter notebooks. The PY subdirectory has only the pyt
 
 n | File | Description | Notes 
 |---|:--:|:---:|:---:|
-1 | [SarsCov2Proteins3d.ipynb](SarsCov2Proteins3d.ipynb) | Sars Covid Protein Structures Viz | NGLView Render Problems
-2 | [SarsCov2Proteins3dV2.ipynb](SarsCov2Proteins3dV2.ipynb) | Same as above but V2 | Consolidated statements and pdb load directly into function without download
+1 | [SarsCov2Proteins3dV2.ipynb](SarsCov2Proteins3dV2.ipynb) | [7WP9 SARS-CoV-2 Omicron Variant SPIKE trimer, all RBDs down](https://www.rcsb.org/structure/7WP9) | Consolidated statements and pdb load directly into function without download.This will have to be run in VSSTUDIO , selecting the latest kernel, and installing all the necessary packages 
