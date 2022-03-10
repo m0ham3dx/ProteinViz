@@ -15,7 +15,7 @@
 <a href="https://www.unesco.org/en/natural-sciences/open-science" target="_blank">
   <img src="https://council.science/wp-content/uploads/2020/03/open-science.jpg" width="200">
 </a>
-<a hred="https://future.a16z.com/what-is-decentralized-science-aka-desci/">
+<a href="https://future.a16z.com/what-is-decentralized-science-aka-desci/">
 <img src="https://i.imgur.com/bq9xhdF.png" width="110">
 </p>
 
