@@ -10,11 +10,22 @@
 </a>
 </p>
 
+---
+<p align="center">
+<a href="https://www.unesco.org/en/natural-sciences/open-science" target="_blank">
+  <img src="https://council.science/wp-content/uploads/2020/03/open-science.jpg" width="200">
+</a>
+<a hred="https://future.a16z.com/what-is-decentralized-science-aka-desci/">
+<img src="https://i.imgur.com/bq9xhdF.png" width="110">
+</p>
+
+---
+
 # What ?
 
 This repository will have some work related to my interests in _X-omics_ and impactful stuff that can be achieved with open source investigative tools for medicine. 
 
-This work is into my fleeting criosity in the area of [_Open Science_](https://www.unesco.org/en/natural-sciences/open-science) & [_Decentralized Science_](https://www.sciencedirect.com/science/article/pii/S0306457321002089)
+This work is into my fleeting curiosity in the area of [_Open Science_](https://www.unesco.org/en/natural-sciences/open-science) & [_Decentralized Science_](https://www.sciencedirect.com/science/article/pii/S0306457321002089)
 
 # Stuff 
 
