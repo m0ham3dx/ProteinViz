@@ -5,7 +5,7 @@ This directory will have jupyter notebooks with actual work.
 
 # Investigation
 
-1. The notes colum will also IMG which outlinks to a youtube video.
+1. The notes column will also IMG which outlinks to a youtube video.
 
 n | File | Description | Notes 
 |---|:--:|:---:|:---:|

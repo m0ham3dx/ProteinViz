@@ -14,7 +14,7 @@
 
 This repository will have some work related to my interests in _X-omics_ and impactful stuff that can be achieved with open source investigative tools for medicine. 
 
-This kind of work into my fleeting criosity in teh area of _Open Science_ & _Decentralized Science_ (this has nothing to do with web3).
+This kind of work into my fleeting criosity in teh area of [_Open Science_](https://www.unesco.org/en/natural-sciences/open-science) & [_Decentralized Science_](https://www.sciencedirect.com/science/article/pii/S0306457321002089)
 
 # Stuff 
 
@@ -26,5 +26,5 @@ N | Directory | Desctiption
 
 # Interesting Related Links 
 
-1. [fold.it](https://fold.it/) - Crowdsourced Gamified drug disovery 
-2. [https://foldingathome.org/]
+1. [fold.it](https://fold.it/) - Crowdsourced Gamified drug disovery. 
+2. [Folding@home](https://foldingathome.org/) - Donating GPU for proten folding. [ARTICLE](https://news.stanford.edu/pr/02/folding1023.html)
