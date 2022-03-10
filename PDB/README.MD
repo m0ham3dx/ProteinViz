@@ -1,8 +1,10 @@
 # What ?
 
-This directory will have jupyter notebooks with actual work
+This directory will have jupyter notebooks with actual work.
 
-# Files
+# Investigation
+
+1. The notes colum will also IMG which outlinks to a youtube video.
 
 n | File | Description | Notes 
 |---|:--:|:---:|:---:|
