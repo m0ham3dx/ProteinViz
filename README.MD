@@ -12,7 +12,9 @@
 
 # What ?
 
-This repository will have some work related to my interests in X-omics and impactfuls stuff that can be achieved with open source investigative tools for medicine. 
+This repository will have some work related to my interests in _X-omics_ and impactful stuff that can be achieved with open source investigative tools for medicine. 
+
+This kind of work into my fleeting criosity in teh area of _Open Science_ & _Decentralized Science_ (this has nothign to do with web3).
 
 # Stuff 
 
