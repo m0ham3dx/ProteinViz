@@ -12,10 +12,16 @@
 
 # What ?
 
-Random stuff related to biotech exlorations Thing I have been meaning to poke at.  
+This repository will have some work related to my interests in X-omics and impactfuls stuff that can be achieved with open source investigative tools for medicine. 
 
-# stuff 
+# Stuff 
+
+This will have some arbitrary breakdown of work that is being investigated. 
 
 N | Directory | Desctiption
 |---|:--:|:---:|
-1 | [PDB](/PDB/) | Various proteing viz, experiments for manipulatin with code
+1 | [PDB](/PDB/) | Various protein viz and experimentation with code
+
+# Interesting Related Links 
+
+1. [fold.it](https://fold.it/) - Crowdsourced Gamified drug disovery 
