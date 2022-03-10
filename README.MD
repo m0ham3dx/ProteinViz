@@ -31,7 +31,7 @@ This work is into my fleeting curiosity in the area of [_Open Science_](https://
 
 This will have some arbitrary breakdown of work that is being investigated. 
 
-N | Directory | Desctiption
+N | Directory | Description
 |---|:--:|:---:|
 1 | [PDB](/PDB/) | Various protein viz and experimentation with code
 
